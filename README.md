@@ -14,7 +14,7 @@ Many wineries have difficulty regulating the temperature and humidity of their w
 
  Function: Detect the temperature and humidity of an environment for regulating the conditions under which the wines are, both for preserving and for transporting them!
 
- We use the Fiware to colect the data from a brightness sensor and make a graphic to se the reads of:
+ We use the Fiware and STH-Comet to colect the data from a brightness sensor and make a graphic to se the reads of:
 
 <p align="center">
 <img src="https://github.com/pedrogava/Vinheiria/assets/126473513/4700b4c3-d177-4850-9aad-5c82fffc5647"/>
