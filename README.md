@@ -21,16 +21,12 @@ Many wineries have difficulty regulating the temperature and humidity of their w
 </p>
 
 # 📁 Project access
-+ <a href="https://www.fiware.org/"> Click here to acess the python code for the graphic</a>
++ <a href="https://github.com/pedrogava/Vinheiria/blob/main/grafico.py"> Click here to acess the python code for the graphic</a>
 
 
 # Authors:
 
-Rm 98501 - Kauê
-
 RM 551445 - Pedro Valotto
-
-Rm551965 - Nicolas Boni
 
 RM 551043 - Pedro Gava
 
