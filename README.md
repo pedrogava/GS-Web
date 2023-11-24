@@ -1,4 +1,4 @@
-# GS - Global Solution - engenharia de Software
+# GS - Global Solution - Engenharia de Software
 
 - Pedro Gava | RM 551043
 - Pedro Valotto | RM 551445
