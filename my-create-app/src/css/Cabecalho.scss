@@ -1,0 +1,21 @@
+@import "./variáveis";
+.logout{
+    display: flex;
+    // flex-wrap: wrap;
+    justify-content: space-around;
+    background-color: var(--bg-color-L);
+    background-color: #0000009e;
+    color: var(--font-color);
+    font-size: 20px;    
+}
+
+.link{
+    display: flex;
+    color: var(--font-color);
+    align-self: center;
+}
+
+h3{
+    display: flex;
+    align-self: center;
+}
